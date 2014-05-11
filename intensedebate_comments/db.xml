@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+	
+	<table name="btIntensedebateComments">
+		<field name="bID" type="I">
+			<key />
+			<unsigned />
+		</field>
+		<field name="idcomments_acct" type="C" size="255">
+		</field>
+		
+	</table>
+
+</schema>
